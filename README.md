@@ -19,11 +19,11 @@ Discover more about my projects and professional journey at my portfolio and con
 
 **🛠️Skills**
 
-**Programming Languages:** Python, R, SQL, Java, C, C++, JavaScript, HTML, CSS
+**- Programming Languages:** Python, R, SQL, Java, C, C++, JavaScript, HTML, CSS
 
-**Data Engineering:** Data warehousing, SQL, Data Engineering best practices
+**- Data Engineering:** Data warehousing, SQL, Data Engineering best practices
 
-**Cloud Platforms:** AWS
+**- Cloud Platforms:** AWS
 **- Analytics & Visualization:** Pandas, Matplotlib, Seaborn, Power BI, 
 Tableau, Jupyter Notebook, Excel
 
@@ -39,10 +39,13 @@ Tableau, Jupyter Notebook, Excel
 **- Project Management:** End-to-end project management, cross-functional collaboration, stakeholder communication
 
 **📂 Featured Projects**
+
 Financial Data Analysis and Reporting: Analyzed financial issues and developed a database to improve report accuracy. Technologies: Python, Excel.
 Depressive Disorder Prediction Model: Built and optimized predictive models to identify depressive disorder with 80% accuracy. Technologies: Python, R.
 Credit Card Fraud Detection: Engineered features and developed models to detect fraud with 95% accuracy. Technologies: Python, Pandas.
 
 **Let's Connect!**
+
 Email: drajput@bu.edu
+
 LinkedIn: https://www.linkedin.com/in/darshanarajput
